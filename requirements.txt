@@ -1,0 +1,8 @@
+
+gradio
+pymupdf
+sentence-transformers
+numpy
+gradio
+pymupdf
+scikit-learn
